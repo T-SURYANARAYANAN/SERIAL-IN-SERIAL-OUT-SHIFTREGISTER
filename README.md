@@ -1,6 +1,6 @@
 ### NAME : T.SURYANARAYANAN
 ### REG NO : 24900450
-### EX-10 SERIAL IN SERIAL OUT SHIFTREGISTER
+### EX-06 SERIAL IN SERIAL OUT SHIFTREGISTER
 
 ### AIM:
 
@@ -38,15 +38,15 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 
 ### PROGRAM
-![Screenshot 2024-12-19 220400](https://github.com/user-attachments/assets/b10243db-38a3-4144-b1a2-b70a32d3868f)
+![image](https://github.com/user-attachments/assets/d1e3d675-7c36-4915-b077-da37c74b91a1)
 
 
 ### RTL LOGIC FOR SISO Shift Register
-![image](https://github.com/user-attachments/assets/1fba90f8-21fc-43a2-9497-93b299c1b659)
+![image](https://github.com/user-attachments/assets/762091ad-48c5-4c4a-b065-3545ef07d262)
 
 
 ### TIMING DIGRAMS FOR SISO Shift Register
-![Screenshot 2024-12-19 220519](https://github.com/user-attachments/assets/ce27aace-d02a-40b9-978a-6582ecf8d64b)
+![image](https://github.com/user-attachments/assets/9e178ee8-4ebc-436e-8afc-12497e619398)
 
 
 ### RESULTS
